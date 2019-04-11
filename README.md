@@ -1,6 +1,5 @@
 # Around
 
-### [Demo](https://around-web.herokuapp.com/)
 
 ## Introduction
 
